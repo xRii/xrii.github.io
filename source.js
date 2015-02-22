@@ -69,9 +69,9 @@ bookmark[0][9] = {
 'thumb':'ebay.png'
 };
 bookmark[0][10] = {
-'title':'',
-'url':'',
-'thumb':''
+'title':'Twitter',
+'url':'https://twitter.com',
+'thumb':'twitter.png'
 };
 bookmark[0][11] = {
 'title':'',
