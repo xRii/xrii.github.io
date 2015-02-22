@@ -29,8 +29,8 @@ bookmark[0][1] = {
 'thumb':'wikipedia.png'
 };
 bookmark[0][2] = {
-'title':'',
-'url':'',
+'title':'FCUM',
+'url':'http://www.fc-utd.co.uk',
 'thumb':''
 };
 bookmark[0][3] = {
