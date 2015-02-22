@@ -31,7 +31,7 @@ bookmark[0][1] = {
 bookmark[0][2] = {
 'title':'FCUM',
 'url':'http://www.fc-utd.co.uk',
-'thumb’:’fcum.png’
+'thumb’:’’
 };
 bookmark[0][3] = {
 'title':'',
