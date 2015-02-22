@@ -25,7 +25,7 @@ bookmark[0][0] = {
 };
 bookmark[0][1] = {
 'title':'Wikipedia',
-'url':'http://wikipedia.org',
+'url':'http://en.wikipedia.org',
 'thumb':'wikipedia.png'
 };
 bookmark[0][2] = {
