@@ -34,9 +34,9 @@ bookmark[0][2] = {
 'thumb':'fcum.png'
 };
 bookmark[0][3] = {
-'title':'',
-'url':'',
-'thumb':''
+'title':'BBC Weather',
+'url':'http://www.bbc.co.uk/weather',
+'thumb':'bbcweather.png'
 };
 bookmark[0][4] = {
 'title':'BBC News',
