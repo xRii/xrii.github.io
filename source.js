@@ -20,7 +20,7 @@ bookmark[2] = new Array();
 // 1. BLOCK
 bookmark[0][0] = {
 'title':'YouTube',
-'url':'http://youtube.com',
+'url':'http://www.youtube.com',
 'thumb':'youtube.png'
 };
 bookmark[0][1] = {
